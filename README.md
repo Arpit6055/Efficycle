@@ -9,5 +9,5 @@
 ### Team Strength- 13 Students
 ### Project- ( Effi-Que Quadri-cycle )“Design and fabrication 4-Wheeler Hybrid (Electric + Manual Power) Power Vehicle”
 ### Achievement - Secured 8th Rank in INDIA National level SAE NIS EFFI-CYCLE competition 2021.
-###	Design and fabrication 4-Wheeler Bio-Hybrid Power Vehicle for the competition of SAE NIS EFFI-CYCLE 2021 held virtually
+###	Design and fabrication 4-Wheeler Bio-Hybrid Power Vehicle for the competition of SAE NIS EFFI-CYCLE 2021 held virtually
 
